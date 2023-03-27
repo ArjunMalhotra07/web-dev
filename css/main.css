@@ -1,0 +1,27 @@
+button {
+  color: brown;
+}
+nav {
+  background-color: lightcyan;
+}
+h1 {
+  text-align: center;
+}
+img {
+  float: left;
+}
+p {
+  background-image: url("../assets/me.jpg");
+}
+#favicon {
+  border-radius: 50%;
+}
+th,
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+table {
+  border: 1px solid black;
+}
