@@ -25,3 +25,19 @@ td {
 table {
   border: 1px solid black;
 }
+.city {
+  background-color: lightgray;
+  color: black;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+#random_id {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+  padding: 10%;
+  margin: 15%;
+}
